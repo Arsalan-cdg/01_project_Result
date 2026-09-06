@@ -19,6 +19,8 @@ A simple Python program that takes a student's name, roll number, and marks in f
 - Conditional statements (`if`, `elif`, `else`)
 - Logical operator (`or`)
 - f-strings for formatted output
+  
+> This project was built while learning Python fundamentals and may be improved as I gain more experience.
 
 ## How to Run
 
